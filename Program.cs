@@ -179,18 +179,34 @@
 
 #region funksiya ichida funksiya
 
-string GetMessage()
-{
-    return "xexesalom";
-}
+// string GetMessage()
+// {
+//     return "xexesalom";
+// }
 
-void PrintMessage(string message)
-{
-    Console.WriteLine(message);
-}
+// void PrintMessage(string message)
+// {
+//     Console.WriteLine(message);
+// }
 
-PrintMessage(GetMessage());
+// PrintMessage(GetMessage());
 #endregion
+//rekursiv funksiya
+
+static int Fact(int n){
+    if(n == 1)
+    {
+        return 1;
+    }
+    return n*Fact(n-1);
+};
+System.Console.Write("iltimos faktarial hisoblash uchun son kiriting: ");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.Clear();
+var result = Fact(x);
+System.Console.WriteLine($"{x} faktarial {result} ga teng");
+
+
 
 
 
