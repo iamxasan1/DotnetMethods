@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/xasan/Desktop/methods/methods.csproj",
+      "projectUniqueName": "/home/xasan/Desktop/dotnet c#/methods/methods.csproj",
       "projectName": "methods",
-      "projectPath": "/home/xasan/Desktop/methods/methods.csproj",
+      "projectPath": "/home/xasan/Desktop/dotnet c#/methods/methods.csproj",
       "packagesPath": "/home/xasan/.nuget/packages/",
-      "outputPath": "/home/xasan/Desktop/methods/obj/",
+      "outputPath": "/home/xasan/Desktop/dotnet c#/methods/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/xasan/.nuget/NuGet/NuGet.Config"

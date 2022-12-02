@@ -13,3 +13,18 @@
 /home/xasan/Desktop/methods/obj/Debug/net7.0/methods.pdb
 /home/xasan/Desktop/methods/obj/Debug/net7.0/methods.genruntimeconfig.cache
 /home/xasan/Desktop/methods/obj/Debug/net7.0/ref/methods.dll
+/home/xasan/Desktop/dotnet c#/methods/bin/Debug/net7.0/methods
+/home/xasan/Desktop/dotnet c#/methods/bin/Debug/net7.0/methods.deps.json
+/home/xasan/Desktop/dotnet c#/methods/bin/Debug/net7.0/methods.runtimeconfig.json
+/home/xasan/Desktop/dotnet c#/methods/bin/Debug/net7.0/methods.dll
+/home/xasan/Desktop/dotnet c#/methods/bin/Debug/net7.0/methods.pdb
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/methods.csproj.AssemblyReference.cache
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/methods.AssemblyInfoInputs.cache
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/methods.AssemblyInfo.cs
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/methods.csproj.CoreCompileInputs.cache
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/methods.dll
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/refint/methods.dll
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/methods.pdb
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/methods.genruntimeconfig.cache
+/home/xasan/Desktop/dotnet c#/methods/obj/Debug/net7.0/ref/methods.dll
